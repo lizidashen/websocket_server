@@ -3,9 +3,9 @@
 
 ### 步骤
 - 在根目录
-  ···
+·
     node server.js  // 开启websocket的node服务端
-  ···
+·
 
 - 在 *hello-world* 目录下
   ···
