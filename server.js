@@ -97,8 +97,7 @@ ws.on('connection', function (socket) {
     socket.on('close', close)
     socket.on('error', error)
     socket.on('open', function open() {
-        console.log('服务端开始', );
-
+        console.log('服务端开始');
     })
 })
 function close() {
